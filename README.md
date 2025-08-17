@@ -20,7 +20,7 @@ Follow these steps to create and run your first Flutter application for **Androi
 
 3. Create a new Flutter project
    ```bash
-   cd flutter-app/
+   flutter create flutter-app
    ```
 
 4. Go into the project folder
