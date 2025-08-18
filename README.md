@@ -4,7 +4,11 @@ Follow these steps to create and run your first Flutter application for **Androi
 
 📖 **Reference:** [Flutter Official Documentation](https://docs.flutter.dev/)
 
+useful package/components
+1. flutter pub add fluentui_icons && flutter pub get(flutter icons(command- for flutter icons)
+
 ---
+
 
 ## 🛠 Steps
 
